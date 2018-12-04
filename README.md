@@ -1,9 +1,15 @@
 # Multi-Agent Generative Adversarial Imitation Learning
 
-Jiaming Song, Hongyu Ren, Dorsa Sadigh, Stefano Ermon
+Source code for our paper: [Multi-Agent Generative Adversarial Imitation Learning](https://arxiv.org/abs/1807.09936)
+
+By [Jiaming Song](http://tsong.me), Hongyu Ren, Dorsa Sadigh, [Stefano Ermon](http://cs.stanford.edu/~ermon)
+
+## Running the Code
 
 - For code implementing MAGAIL, please visit `multiagent-gail` folder.
 - For the OpenAI particle environment code, please visit `multiagent-particle-envs` folder.
+
+## Citation
 
 If you find this code useful, please consider citing our paper:
 ```
