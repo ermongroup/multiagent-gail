@@ -1,12 +1,11 @@
-# Imitation
-Obtain models for imitation learning.
+# Multi-Agent Generative Adversarial Imitation Learning
 
-Run MACK:
+Run Multi-Agent ACKTR:
 ```
 python -m sandbox.mack.run_simple
 ```
 
-Run IRL:
+Run MAGAIL with Multi-Agent ACKTR:
 
 ```
 python -m irl.mack.run_mack_gail [discrete]
